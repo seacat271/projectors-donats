@@ -2,17 +2,12 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-<<<<<<< HEAD
-  "homepage": "https://skazzp.github.io/projectors-donuts",
-  "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /projectors-donuts/"
-=======
+
   "homepage": "https://seacat271.github.io/projectors-donats",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /projectors-donats/"
->>>>>>> ff3d078ec3a35dc87893af47f0601c3d0dd86449
+
   },
   "repository": {
     "type": "git",
